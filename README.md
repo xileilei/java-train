@@ -61,13 +61,13 @@
 * 教材
     - [Programming Notes](https://www.ntu.edu.sg/home/ehchua/programming/index.html)
 * 本地开发环境
-    - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-    - [Google Chrome](https://www.google.com/chrome/)
+    - [IntelliJ IDEA](https://www.jetbrains.com/idea)
+    - [Google Chrome](https://www.google.com/chrome)
     - [Astah Community](http://astah.net/editions/community)
 * 练习环境
     - [Coding Ground](http://www.tutorialspoint.com/codingground.htm)
 * 代码版本管理
-    - [BitBucket](https://bitbucket.org/)
-    - [SourceTree](https://www.sourcetreeapp.com/)
+    - [GitHub](https://github.com)
+    - [SourceTree](https://www.sourcetreeapp.com)
 * 项目部署
-    - [Heroku](https://www.heroku.com/)
+    - [Heroku](https://www.heroku.com)
