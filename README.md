@@ -57,7 +57,7 @@
 
 ### 5. 课程资源
 * 讲义
-    - [OneDrive文件共享](https://1drv.ms/f/s!Aq2lcH3e8ZPzlikTZf19mfcwGy7g)（请使用个人的微软OneDrive账号访问）
+    - [PPT](https://github.com/kangyuzhe/java-train/tree/master/slides)
 * 教材
     - [Programming Notes](https://www.ntu.edu.sg/home/ehchua/programming/index.html)
 * 本地开发环境
