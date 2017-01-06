@@ -46,6 +46,9 @@ public class TestRunner {
             }
         }
 
+        double score = 100 - testResult.getFailureCount() * 100.0 / testResult.getRunCount();
+        resultText += "\n" + "您的当前成绩：" + score;
+
         return resultText;
     }
 

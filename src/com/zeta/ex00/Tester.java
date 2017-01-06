@@ -18,6 +18,7 @@ public class Tester {
             }
             params[i] = args[i];
         }
+        System.out.println(testRunner.getTestResultText());
         testRunner.sendTestResultByMail(params[0], params[1]);
     }
 
