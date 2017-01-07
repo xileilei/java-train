@@ -12,6 +12,7 @@ public class Homework {
     static int getSumOfDigits(int number) {
         int sum = 0;
 
+        // write your code here.
         String literal = Integer.toString(number > 0 ? number : -number);
         for (int i = 0; i < literal.length(); i++) {
             sum += literal.charAt(i) - '0';
