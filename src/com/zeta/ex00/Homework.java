@@ -16,6 +16,7 @@ public class Homework {
         String literal = Integer.toString(number > 0 ? number : -number);
         for (int i = 0; i < literal.length(); i++) {
             sum += literal.charAt(i) - '0';
+
         }
 
         return sum;
